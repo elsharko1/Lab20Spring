@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Spring Demo</title>
+    <title>Grand Circus Coffee</title>
     <style>
         body {
             background-image: url("https://media.giphy.com/media/3YV1MtK93HjRC/giphy.gif");
@@ -19,11 +19,18 @@
             text-align: center;
             font-size: 80px;
         }
+        h2 {
+            text-align: center;
+            font-size: 50px;
+        }
     </style>
 </head>
 <body>
 <h1>
-${message}
+${greeting}
 </h1>
+<h2>
+    <a href="/page2">ENTER</a>
+</h2>
 </body>
 </html>
