@@ -35,11 +35,11 @@
     <br>
     Last Name: <input type="text" name="l_name" required>
     <br>
-    Email: <input type="text" name="e_add">
+    Email: <input type="text" name="e_add" required>
     <br>
-    Phone Number: <input type="text" name="p_num">
+    Phone Number: <input type="text" name="p_num" required>
     <br>
-    Password: <input type="text" name="p_word">
+    Password: <input type="text" name="p_word" required>
     <br>
 
     <input type="submit" value="Register">
