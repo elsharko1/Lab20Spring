@@ -35,5 +35,9 @@
 <br>
 <p>Your new password is: ${userPassword}</p>
 </div>
+<br>
+<br>
+<br>
+<h1>I AM GOING TO STEAL YOUR PASSWORD!</h1>
 </body>
 </html>

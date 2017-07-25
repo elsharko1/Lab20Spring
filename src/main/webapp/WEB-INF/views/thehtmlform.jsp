@@ -31,9 +31,9 @@
 <br>
 <br>
 <form method="post" action = "/page3">
-    First Name: <input type="text" name="f_name">
+    First Name: <input type="text" name="f_name" required>
     <br>
-    Last Name: <input type="text" name="l_name">
+    Last Name: <input type="text" name="l_name" required>
     <br>
     Email: <input type="text" name="e_add">
     <br>
